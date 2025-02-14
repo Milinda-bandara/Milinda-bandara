@@ -13,7 +13,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=milinda-bandara&label=Profile%20views&color=0e75b6&style=flat" alt="milinda-bandara" /> </p>
 <hr>
-- 🌱 I’m currently learning **Laravel**
 
 - 📫 How to reach me **milindabandara27@gmail.com**
 <hr>
