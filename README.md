@@ -1,5 +1,15 @@
 <h1 align="center">Hi 👋, I'm Milinda Bandara</h1>
-<h3 align="center">A Undergraduate Software Engineering Student in SriLanka</h3>
+<h3 align="center">
+💻 Associate Software Engineer
+🎓 Software Engineering Undergraduate in Srilanka
+🚀 Full-Stack Developer | Laravel | PHP | React.js
+🔬 IoT & AI Enthusiast  | ML & Data Analytics
+📡 Arduino & Embedded Systems | ESP32 | Firebase Integration
+
+💡 Passionate about building scalable web apps and IoT-based solutions.
+📈 Exploring Power BI & Machine Learning for predictive analytics.
+
+📫 Let's connect!</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=milinda-bandara&label=Profile%20views&color=0e75b6&style=flat" alt="milinda-bandara" /> </p>
 <hr>
