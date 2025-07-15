@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Milinda Bandara</h1>
 <h3 align="center">
-💻 Associate Software Engineer
+💻  Software Engineer
 🎓 Software Engineering Undergraduate in Srilanka
 🚀 Full-Stack Developer | WordPress | Laravel | PHP | React.js
 🔬 IoT & AI Enthusiast  | ML & Data Analytics
