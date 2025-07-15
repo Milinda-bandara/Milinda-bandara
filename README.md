@@ -2,7 +2,7 @@
 <h3 align="center">
 💻 Associate Software Engineer
 🎓 Software Engineering Undergraduate in Srilanka
-🚀 Full-Stack Developer | Laravel | PHP | React.js
+🚀 Full-Stack Developer | WordPress | Laravel | PHP | React.js
 🔬 IoT & AI Enthusiast  | ML & Data Analytics
 📡 Arduino & Embedded Systems | ESP32 | Firebase Integration
 
